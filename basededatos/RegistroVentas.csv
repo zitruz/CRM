@@ -1,0 +1,11 @@
+﻿Numeropropuesta,nombre,AR1,AR2,estatus,funnelStatus,solucionDigital,cuentaPresupuesto,tenemossolucion,tenemosprecio,timeok,empresaAsignada,envioCotizacion,fechaeviocotizacion,mesEnvio,anoEnvio,montoCotizacion,moneda,COGSPotencial,PO,fechaOrden,mesOrden,anoOrden,montoOrden,COGSReal
+1,na,4,4,0,1,"DEVOPS, Seguridad, Big Data y Arquitectura, FAB. Software",3,1,0,1,3,0,,,,0,,0,0,,,,0,0
+2,na,4,4,0,1,"Seguridad Soc, Operación de Red Noc",0,1,0,1,3,0,,,,0,,0,0,,,,0,0
+3,na,4,4,0,1,Openshift / DEVOPS,2,1,0,1,2,0,,,,0,,0,0,,,,0,0
+"A01111120 ",MiMovistar Openshift,3,4,4,2,MiMovistar Openshift,3,1,1,1,2,1,22,septiembre,2020,4132656.2,pesos,2586352.6,1,18,noviembre,2020,4132656.2,2586352.6
+A01231120,Nube Azure 3 meses,3,4,6,2,Nube Azure 3 meses,3,1,1,1,2,1,23,noviembre,2020,756000,pesos,621951.21,1,18,noviembre,2020,756000,621951.21
+A01181120,Capacitación Openshift,3,4,3,1,Capacitación Openshift,3,1,1,1,2,1,18,noviembre,2020,964822.4,pesos,400000,0,,,,0,0
+A01040121,Migración a Ioniq 5.0,3,4,5,1,Migración a Ioniq 5.0,3,1,1,1,2,1,4,enero,2021,4219424,pesos,1164000,0,,,,0,0
+A02040121,Sprints de desarrollo,3,4,9,0,Sprints de desarrollo,3,1,1,1,2,1,4,enero,2021,3960000,pesos,2646000,1,29,enero,2021,0,0
+A01301120,DEVOPS APPS MiMovistar/Capacitación + Soporte,3,4,2,2,DEVOPS APPS MiMovistar/Capacitación,3,1,1,1,2,1,30,noviembre,2020,7003760,pesos,4368000,1,29,enero,2021,6803611.78,0
+12,Suscripciones a Cloudera,4,3,2,2,Suscripciones a Cloudera,3,1,1,1,0,0,,,,0,,0,0,,,,0,0

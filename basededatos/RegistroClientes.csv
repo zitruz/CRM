@@ -1,0 +1,8 @@
+﻿id,razonsocial,tipo,giro,naics,rfc,calle,numero,ciudad,cp,nomcontacto,PuestoContacto,correoContacto,telContacto,web,facebook
+1,PROSA,1,"Actividades de procesamiento, reserva y cámara de compensación de transacciones financieras.",522320,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+2,GTAC,1,"Todos los demás servicios de telecomunicaciones",517919,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+3,AT&T,1,"Revendedores de telecomunicaciones",517911,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+4,Telefónica ,2,"Otros servicios de consultoría científica y técnica",541690,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+5,NAVISTAR,1,"Fabricación de maquinaria de camiones, tractores, remolques y apiladores industriales",333924,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+6,NISSAN,1,"Concesionarios de coches nuevos y Fabricación de automóviles",441110,NA,NA,NA,NA,NA,NA ,NA ,NA ,NA ,NA ,NA 
+
