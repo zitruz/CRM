@@ -326,7 +326,7 @@ var opts = {
 
 };
 var target2 = document.getElementById('cantidadVel1');
-target2.innerHTML = totalpagos.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+target2.innerHTML = `$${totalpagos.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}`;
 var target = document.getElementById('foo');
 var gauge = new Gauge(target).setOptions(opts);
 gauge.maxValue = totalordenes;

@@ -52,7 +52,7 @@ var opts = {
 
 };
 var target2 = document.getElementById('cantidadVel2');
-target2.innerHTML = (datosTEle.sumamontoOrden - datosTEle.sumaCogsReal).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+target2.innerHTML =`$${(datosTEle.sumamontoOrden - datosTEle.sumaCogsReal).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,')}`;
 var target = document.getElementById('velgross');
 var gauge = new Gauge(target).setOptions(opts);
 gauge.maxValue = datosTEle.sumatotalcotpesos - datosTEle.sumaCogsEsperado;
